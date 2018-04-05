@@ -15,4 +15,4 @@ question = gets.chomp
   end
 end
 
-puts 'ALRIGHT, DEARY! IT\'S BEEN NICE HAVING YOU VISIT'
+puts 'ALRIGHT, DEARY! IT\'S BEEN NICE HAVING YOU VISIT. GET OUT!'
